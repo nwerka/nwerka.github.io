@@ -4,7 +4,7 @@ html, body{
     font-family: 'poppins', sans-serif;
     color: #222
 }
-.navbar {
+.navbar .navbar-nav  {
     padding: .8rem;
 }
 navbar-nav li {
